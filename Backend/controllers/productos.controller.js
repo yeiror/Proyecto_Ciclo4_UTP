@@ -8,23 +8,24 @@ let response ={
 
 exports.create = function(req,res){
     let producto = new Producto({
-        
-        usuario: req.body.usuario,
-        correo: req.body.correo,
-        password: req.body.password,
-        telefono: req.body.telefono
+
+        talla: JSON.stringify(req.body.talla),
+        nombre: req.body.nombre,
+        marca: req.body.marca,
+        precio: req.body.precio,
+        descripcion: req.body.descripcion
     });
 
-    usuario.save(function(err){
+    producto.save(function(err){
         if(err){
             console.log = false,
             response.exito=false,
-            response.msg = "Error al guardar el empleado",
+            response.msg = "Error al guardar producto",
             res.json(response)
             return;
         }
         response.exito = true,
-        response.msg = "El empleado se guardo exitosamente"
+        response.msg = "El producto se guardó exitosamente "
         res.json(response)
     });
 

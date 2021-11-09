@@ -1,4 +1,4 @@
-.App {
+/*.App {
   text-align: center;
 }
 
@@ -35,4 +35,23 @@
   to {
     transform: rotate(360deg);
   }
+}
+*/
+.App {
+  text-align: center;
+}
+.footer {
+  justify-content: center;
+}
+
+.text_card {
+  color: rgb(43, 255, 0);
+  text-transform: uppercase;
+
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-shadow: 3px 3px 3px #000;
+  text-align: center;
 }
