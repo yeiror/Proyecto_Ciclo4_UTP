@@ -20,7 +20,7 @@ exports.create = function(req,res){
             console.log = false,
             response.exito=false,
             response.msg = "Error al guardar el empleado",
-            res.json(response)
+            res.status(400).json(response)
             return;
         }
         response.exito = true,
@@ -37,10 +37,11 @@ exports.find = function(req, res){
 
 exports.findOne = function(req,res){
     Usuario.findOne(
-        {_id:req.params.id},
-        function(err,usuarios){
-            res.json(usuarios);
-        }
+            {_id:req.params.id},
+            function(err,usuarios){
+                res.json(usuarios);
+            }
+    
     );
 }
 
