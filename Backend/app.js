@@ -6,6 +6,7 @@ var logger = require('morgan');
 var database = require("./config/database");
 var usuariosRouter = require('./routes/usuarios.router')
 var productosRouter = require('./routes/productos.router')
+var loginRouter= require('./routes/login.router')
 
 var app = express();
 
@@ -20,7 +21,8 @@ database.mongoConnnect();
 
 // rutas
 app.use('/usuarios',usuariosRouter);
-app.use('/productos',productosRouter)
+app.use('/productos',productosRouter);
+app.use('/login',loginRouter);
 
 app.use(function(req, res, next) {
   next(createError(404));
