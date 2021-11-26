@@ -10,6 +10,9 @@ import { Container, Nav, Navbar, NavLink } from "react-bootstrap";
 import { MDBIcon, MDBBadge } from "mdb-react-ui-kit";
 
 import Tarjetainicio from "./components/card_inicio";
+import Catalogohombre from "./components/card_hombre";
+import Catalogomujer from "./components/card_mujer";
+// import Tarjetainicio from "./components/card_inicio";
 
 function App() {
   return (
@@ -57,9 +60,9 @@ function App() {
     <Routes>
       <Route path="/" element={<Tarjetainicio/>}/>
       <Route path="/Hombre" element={<Catalogohombre/>}/>
-      <Route path="/Mujer" element={<Catalagomujer/>}/>
-      <Route path="/Ventas" element={<Ventas/>}/>
-      <Route path="/Login" element={<Login/>}/>
+      <Route path="/Mujer" element={<Catalogomujer/>}/>
+      {/* <Route path="/Ventas" element={<Ventas/>}/> */}
+      {/* <Route path="/Login" element={<Login/>}/> */}
 
         
 
