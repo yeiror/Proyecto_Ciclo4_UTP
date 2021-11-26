@@ -10,6 +10,8 @@ import { Container, Nav, Navbar, NavLink } from "react-bootstrap";
 import { MDBIcon, MDBBadge } from "mdb-react-ui-kit";
 
 import Tarjetainicio from "./components/card_inicio";
+import Catalogohombre from "./components/card_hombre";
+import Catalogomujer from "./components/card_mujer";
 
 function App() {
   return (
@@ -43,7 +45,7 @@ function App() {
                   !
                 </MDBBadge>
               </span></Link>
-             
+            
             </NavLink>
             <NavLink><Link to="/Login" className="color_link">Iniciar Sesion</Link></NavLink>
           </Nav>
@@ -57,9 +59,9 @@ function App() {
     <Routes>
       <Route path="/" element={<Tarjetainicio/>}/>
       <Route path="/Hombre" element={<Catalogohombre/>}/>
-      <Route path="/Mujer" element={<Catalagomujer/>}/>
-      <Route path="/Ventas" element={<Ventas/>}/>
-      <Route path="/Login" element={<Login/>}/>
+      <Route path="/Mujer" element={<Catalogomujer/>}/>
+      {/* <Route path="/Ventas" element={<Ventas/>}/> */}
+      {/* <Route path="/Login" element={<Login/>}/> */}
 
         
 
