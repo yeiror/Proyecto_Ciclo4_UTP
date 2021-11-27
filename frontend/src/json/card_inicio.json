@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Hombre",
+    "link": "/Hombre",
+    "image": "https://images.pexels.com/photos/8047038/pexels-photo-8047038.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  },
+  {
+    "id": 2,
+    "title": "Mujer",
+    "link": "/Mujer",
+    "image": "https://images.pexels.com/photos/3480353/pexels-photo-3480353.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  }
+]

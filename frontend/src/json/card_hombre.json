@@ -1,0 +1,64 @@
+[
+    {
+      "id": 1,
+      "title": "Hombre",
+      "tallas": "20,30,40,50,90",
+      "image": "https://images.pexels.com/photos/8047038/pexels-photo-8047038.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "id": 2,
+      "title": "Mujer",
+      "link": "/Mombre",
+      "image": "https://images.pexels.com/photos/3480353/pexels-photo-3480353.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },   {
+        "id": 3,
+        "title": "Hombre",
+        "tallas": "20,30,40,50,90",
+        "image": "https://images.pexels.com/photos/8047038/pexels-photo-8047038.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "id": 4,
+        "title": "ricardo",
+        "link": "/Mombre",
+        "image": "https://images.pexels.com/photos/3480353/pexels-photo-3480353.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },   {
+        "id": 5,
+        "title": "laura",
+        "tallas": "20,30,40,50,90",
+        "image": "https://images.pexels.com/photos/8047038/pexels-photo-8047038.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "id": 6,
+        "title": "Mujer",
+        "link": "/Mombre",
+        "image": "https://images.pexels.com/photos/3480353/pexels-photo-3480353.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      } ,  {
+        "id": 7,
+        "title": "Hombre",
+        "tallas": "20,30,40,50,90",
+        "image": "https://images.pexels.com/photos/8047038/pexels-photo-8047038.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "id": 8,
+        "title": "Mujer",
+        "link": "/Mombre",
+        "image": "https://images.pexels.com/photos/3480353/pexels-photo-3480353.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }, {
+        "id": 6,
+        "title": "Mujer",
+        "link": "/Mombre",
+        "image": "https://images.pexels.com/photos/3480353/pexels-photo-3480353.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      } ,  {
+        "id": 7,
+        "title": "Hombre",
+        "tallas": "20,30,40,50,90",
+        "image": "https://images.pexels.com/photos/8047038/pexels-photo-8047038.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "id": 8,
+        "title": "Mujer",
+        "link": "/Mombre",
+        "image": "https://images.pexels.com/photos/3480353/pexels-photo-3480353.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+  ]
+  
