@@ -7,6 +7,7 @@ var database = require("./config/database");
 var usuariosRouter = require('./routes/usuarios.router')
 var productosRouter = require('./routes/productos.router')
 var loginRouter= require('./routes/login.router')
+var cors = require('cors')
 
 var app = express();
 
@@ -15,6 +16,8 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
+
+app.use(cors())
 
 //Mongo Connection
 database.mongoConnnect();
