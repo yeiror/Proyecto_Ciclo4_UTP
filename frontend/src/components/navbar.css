@@ -1,0 +1,17 @@
+#Navbar #Dropdown-Header .row:nth-child(1) {
+    font-size: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+#Dropdown-Header icon{
+    width:20px;
+    height: 20px;
+}
+
+#Navbar #Dropdown-Header .row:nth-child(2) {
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+}

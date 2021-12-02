@@ -1,0 +1,33 @@
+/*login style={{backgroundColor:'white', borderRadius:10, marginx:'auto', width:20}}
+
+
+
+#title-form style={{ color:'blue', backgroundColor:'white', borderRadius:10}}
+
+form.label style={{ float:'left' }}
+style={{ float: "left" }}
+
+Button style={{ marginTop: 20 }}
+
+
+*/
+
+body{
+    
+}
+
+.login{
+    font-weight: bolder;
+    background-color: gainsboro; 
+    border-radius: 10px; 
+    display: flex;
+    align-self: center;
+    justify-self: center;
+    width: 100vh;
+    height: 60vh;
+    margin: auto;
+}
+
+#login-container{
+    margin-top:15%
+}
