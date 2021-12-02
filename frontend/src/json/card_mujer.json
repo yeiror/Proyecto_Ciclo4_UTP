@@ -1,0 +1,205 @@
+[
+
+{
+            "id": 1,
+            "titulo":"Adidas",
+            "talla1":34,
+            "talla2":39,
+            "talla3":42,
+            "talla4":45,
+            "imagen": "https://static.dafiti.com.co/p/royal-county-of-berkshire-polo-club-6831-5994741-1-catalog-new.jpg",
+            "precio": "212.000"
+
+
+        },
+
+        {
+            "id": 2,
+            "titulo":"Adidas",
+            "talla1":34,
+            "talla2":39,
+            "talla3":42,
+            "talla4":45,
+            "imagen": "https://static.dafiti.com.co/p/adidas-performance-1963-4327771-1-catalog-new.jpg",
+            "precio": "298.000"
+
+
+        },
+
+        {
+            "id": 3,
+            "titulo":"Adidas",
+            "talla1":34,
+            "talla2":39,
+            "talla3":42,
+            "talla4":45,
+            "imagen": "https://static.dafiti.com.co/p/royal-county-of-berkshire-polo-club-8099-6458321-1-catalog-new.jpg",
+            "precio": "217.000"
+
+
+        },
+        {
+            "id": 4,
+            "titulo":"Adidas",
+            "talla1":34,
+            "talla2":39,
+            "talla3":42,
+            "talla4":45,
+            "imagen": "https://static.dafiti.com.co/p/royal-county-of-berkshire-polo-club-2287-3489351-1-catalog-new.jpg",
+            "precio": "330.000"
+
+
+        },
+
+        {
+            "id": 5,
+            "titulo":"Adidas",
+            "talla1":34,
+            "talla2":39,
+            "talla3":42,
+            "talla4":45,
+            "imagen": "https://static.dafiti.com.co/p/royal-county-of-berkshire-polo-club-4336-3789351-1-catalog-new.jpg",
+            "precio": "150.000"
+
+
+        },
+
+        {
+            "id": 6,
+            "titulo":"Adidas",
+            "talla1":34,
+            "talla2":39,
+            "talla3":42,
+            "talla4":45,
+            "imagen": "https://static.dafiti.com.co/p/skechers-0433-6705521-1-catalog-new.jpg",
+            "precio": "210.000"
+
+
+        },
+
+        {
+            "id": 7,
+            "titulo":"Adidas",
+            "talla1":34,
+            "talla2":39,
+            "talla3":42,
+            "talla4":45,
+            "imagen": "https://static.dafiti.com.co/p/skechers-1199-2296931-1-catalog-new.jpg",
+            "precio": "240.000"
+
+
+        },
+
+        {
+            "id": 8,
+            "titulo":"Adidas",
+            "talla1":34,
+            "talla2":39,
+            "talla3":42,
+            "talla4":45,
+            "imagen": "https://static.dafiti.com.co/p/skechers-4252-7036931-1-catalog-new.jpg",
+            "precio": "250.000"
+
+
+        },
+
+        {
+            "id": 9,
+            "titulo":"Adidas",
+            "talla1":34,
+            "talla2":39,
+            "talla3":42,
+            "talla4":45,
+            "imagen": "https://static.dafiti.com.co/p/adidas-performance-5683-2596921-1-catalog-new.jpg",
+            "precio": "260.000"
+
+        },
+
+        {
+            "id": 10,
+            "titulo":"Adidas",
+            "talla1":34,
+            "talla2":39,
+            "talla3":42,
+            "talla4":45,
+            "imagen": "https://static.dafiti.com.co/p/adidas-performance-5683-2596921-1-catalog-new.jpg",
+            "precio": "170.000"
+        },
+
+        {
+            "id": 11,
+            "titulo":"Adidas",
+            "talla1":34,
+            "talla2":39,
+            "talla3":42,
+            "talla4":45,
+            "imagen": "https://static.dafiti.com.co/p/adidas-performance-5683-2596921-1-catalog-new.jpg",
+            "precio": "260.000"
+
+        },
+
+        {
+            "id": 12,
+            "titulo":"Adidas",
+            "talla1":34,
+            "talla2":39,
+            "talla3":42,
+            "talla4":45,
+            "imagen": "https://static.dafiti.com.co/p/adidas-performance-5683-2596921-1-catalog-new.jpg",
+            "precio": "190.000"
+
+        },
+
+        {
+            "id": 13,
+            "titulo":"Adidas",
+            "talla1":34,
+            "talla2":39,
+            "talla3":42,
+            "talla4":45,
+            "imagen": "https://static.dafiti.com.co/p/adidas-performance-5683-2596921-1-catalog-new.jpg",
+            "precio": "170.000"
+
+
+        },
+
+        {
+            "id": 14,
+            "titulo":"Adidas",
+            "talla1":34,
+            "talla2":39,
+            "talla3":42,
+            "talla4":45,
+            "imagen": "https://static.dafiti.com.co/p/adidas-performance-5683-2596921-1-catalog-new.jpg",
+            "precio": "290.000"
+
+
+        },
+
+        {
+            "id": 15,
+            "titulo":"Adidas",
+            "talla1":34,
+            "talla2":39,
+            "talla3":42,
+            "talla4":45,
+            "imagen": "https://static.dafiti.com.co/p/adidas-performance-5683-2596921-1-catalog-new.jpg",
+            "precio": "160.000"
+
+
+        },
+
+        {
+            "id": 16,
+            "titulo":"Adidas",
+            "talla1":34,
+            "talla2":39,
+            "talla3":42,
+            "talla4":45,
+            "imagen": "https://static.dafiti.com.co/p/adidas-performance-5683-2596921-1-catalog-new.jpg",
+            "precio": "110.000"
+
+
+        }
+]
+

@@ -43,7 +43,9 @@
 .footer {
   justify-content: center;
 }
-
+.color_link{
+  color: black;
+}
 .text_card {
   color: rgb(43, 255, 0);
   text-transform: uppercase;
